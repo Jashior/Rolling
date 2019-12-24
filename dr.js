@@ -42,7 +42,7 @@ function probCalc(n) {
 }
 
 function calculateThrough() {
-  for (let j = 3; j <= 10001; j++) {
+  for (let j = 3; j <= 100; j++) {
     probCalc(j);
   }
 }
