@@ -16,4 +16,4 @@
 
 - Prior results from calculations of earlier n values are used to work out future results
 
-![Deathrolling](Deathrolling.jpg)
+![Deathrolling](deathrolling.jpg)
