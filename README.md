@@ -8,6 +8,15 @@
 
 - Whoever rolls a 1 first loses. 
 
+# Usage
+
+Run the JavaScript file locally, through NodeJS:
+
+```
+node dr.js
+```
+
+
 # What is the probability of winning?
 
 - This project works out the probability of winning for different starting values of n
