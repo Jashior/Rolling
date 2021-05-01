@@ -2,11 +2,11 @@
 
 'Deathrolling' probability RNG game: 
 
-- Player A rolls a number from 1 to n. 
+- Player A rolls a number from 1 to n (uniform probability distribution). 
 
 - Player B follows by rolling a number from 1 to the result of the previous roll. 
 
-- Whoever rolls 1 first loses. 
+- Whoever rolls a 1 first loses. 
 
 # What is the probability of winning?
 
